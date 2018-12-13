@@ -1,2 +1,2 @@
 # cp-tag
-tag based protection using lambda and rest api
+tag based protection using lambda, rest api, cloudwatch
